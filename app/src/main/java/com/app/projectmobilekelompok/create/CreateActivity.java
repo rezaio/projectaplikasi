@@ -39,7 +39,7 @@ public class CreateActivity extends AppCompatActivity {
 
         Objects.requireNonNull(getSupportActionBar()).setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setTitle("Buat pengeluaran");
+        getSupportActionBar().setTitle("Input Barang");
 
         unbinder = ButterKnife.bind(this);
         daoSession = DaoHandler.getInstance(this);

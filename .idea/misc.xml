@@ -10,8 +10,12 @@
       <map>
         <entry key="..\:/Users/Ocha/Downloads/Sample-CRUD-Greendao-master/Sample-CRUD-Greendao-master/app/src/main/res/layout/activity_create.xml" value="0.15172101449275363" />
         <entry key="..\:/Users/Ocha/Downloads/Sample-CRUD-Greendao-master/Sample-CRUD-Greendao-master/app/src/main/res/layout/fragment_dialog_edit.xml" value="0.11684782608695653" />
+        <entry key="..\:/Users/Reza/Downloads/projectmobilekelompok/projectmobilekelompok/app/src/main/res/layout/activity_create.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Reza/Downloads/projectmobilekelompok/projectmobilekelompok/app/src/main/res/layout/activity_main.xml" value="0.16822916666666668" />
-        <entry key="..\:/Users/Reza/Downloads/projectmobilekelompok/projectmobilekelompok/app/src/main/res/layout/login_activity.xml" value="0.2" />
+        <entry key="..\:/Users/Reza/Downloads/projectmobilekelompok/projectmobilekelompok/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Reza/Downloads/projectmobilekelompok/projectmobilekelompok/app/src/main/res/layout/fragment_dialog_edit.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Reza/Downloads/projectmobilekelompok/projectmobilekelompok/app/src/main/res/layout/item_pengeluaran.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Reza/Downloads/projectmobilekelompok/projectmobilekelompok/app/src/main/res/layout/login_activity.xml" value="0.5" />
       </map>
     </option>
   </component>
