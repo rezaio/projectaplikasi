@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Total Barang</string>
+    <string name="app_name">Aplikasi Total Barang di Gudang</string>
     <string name="action_settings">Settings</string>
     <string name="title_nominal">Jumlah</string>
     <string name="title_pembelian">Nama Barang</string>
