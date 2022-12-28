@@ -20,3 +20,5 @@ Merupakan Aplikasi android yang dikembangkan dengan menggunakan bahasa pemograma
 - Reza Oktario	(20753028)
 - Wayan Ardani	(20753035)
 
+
+selesai dan sudah dinilai :heavy_check_mark:
